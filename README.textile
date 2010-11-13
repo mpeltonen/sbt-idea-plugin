@@ -1,0 +1,1 @@
+NOTE: sbt-idea-plugin repository has been renamed to "sbt-idea":http://github.com/mpeltonen/sbt-idea
